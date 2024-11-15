@@ -33,20 +33,7 @@ Welcome to my GitHub profile! I’m a computer engineering student passionate ab
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)
 
----
 
-## 📚 **Education**
-
-- **Engineering Cycle in Computer Science**  
-  Ecole Polytechnique Sousse (2022 - 2025)
-
-- **Preparatory Integrated Program**  
-  Ecole Polytechnique Sousse (2020 - 2022)
-
-- **Technical Baccalaureate**  
-  Lycée les Elites (2019 - 2020)
-
----
 
 ## 💼 **Professional Experience**
 
