@@ -37,47 +37,22 @@ Welcome to my GitHub profile! I’m a computer engineering student passionate ab
 
 ## 💼 **Professional Experience**
 
-### PS Informatique (2023)
-**Web Developer**
-- Contributed to the "Tunisie Production" project using Odoo to streamline user registration.
-- Developed user interfaces and enhanced process efficiency.
-
 ### Proxym (2024)
 **Web Developer Intern**
 - Built an online booking platform using NestJS, Prisma, and PostgreSQL.
 - Collaborated with a team to deliver a complete, functional product.
 
-## 📦 **Highlighted Projects**
+### PS Informatique (2023)
+**Web Developer**
+- Contributed to the "Tunisie Production" project using Odoo to streamline user registration.
+- Developed user interfaces and enhanced process efficiency.
 
-### [1. Stock Management Application (MERN Stack)](https://github.com/YourUsername/stock-management-app)
-- Developed a comprehensive stock management app for a boutique specializing in evening gowns.
-- Utilized MongoDB, Express.js, React, and Node.js for full-stack functionality.
-
-### [2. E-commerce Website (Laravel)](https://github.com/YourUsername/e-commerce-website)
-- Created an e-commerce platform using Laravel for inventory and product section management.
-
-### [3. Cosmetic Products Stock Management (Symfony)](https://github.com/YourUsername/cosmetic-stock-management)
-- Developed a Symfony application for managing cosmetic products inventory, including quantity and pricing.
-
-### [4. Job Matching and CV Optimization Platform](https://github.com/YourUsername/job-matching-optimization)
-- Designed a platform using NLP and AI to extract keywords from job postings, analyze CV matches, and suggest improvements.
-- Implemented with Python and Hugging Face models in Jupyter Notebook.
-
----
-
-## 🌐 **Languages**
-
-![Arabic](https://img.shields.io/badge/Arabic-Native-%23FF5733)
-![French](https://img.shields.io/badge/French-DELF%20B2-%230000FF)
-![English](https://img.shields.io/badge/English-B2-%23008080)
-
----
 
 ## 📫 **Contact Me**
 
 - **Email**: [mghaieth.mariem@gmail.com](mailto:mghaieth.mariem@gmail.com)
-- **LinkedIn**: [Mariem Mghaieth](https://www.linkedin.com/in/YourLinkedInProfile)
-- **GitHub**: [MariemMghaieth](https://github.com/YourUsername)
+- **LinkedIn**: [Mariem Mghaieth](https://www.linkedin.com/in/mariem-mghaieth)
+- **GitHub**: [MariemMghaieth](https://github.com/meriammghaieth)
 
 ---
 
