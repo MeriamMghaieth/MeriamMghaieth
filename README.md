@@ -60,15 +60,6 @@ Welcome to my GitHub profile! I’m a computer engineering student passionate ab
 - Built an online booking platform using NestJS, Prisma, and PostgreSQL.
 - Collaborated with a team to deliver a complete, functional product.
 
----
-
-## 📈 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-
----
-
 ## 📦 **Highlighted Projects**
 
 ### [1. Stock Management Application (MERN Stack)](https://github.com/YourUsername/stock-management-app)
