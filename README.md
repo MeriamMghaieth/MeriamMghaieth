@@ -52,7 +52,6 @@ Welcome to my GitHub profile! I’m a computer engineering student passionate ab
 
 - **Email**: [mghaieth.mariem@gmail.com](mailto:mghaieth.mariem@gmail.com)
 - **LinkedIn**: [Mariem Mghaieth](https://www.linkedin.com/in/mariem-mghaieth)
-- **GitHub**: [MariemMghaieth](https://github.com/meriammghaieth)
 
 ---
 
